@@ -70,8 +70,8 @@ const FICHES = [
     titre: "Sois optimiste",
     categorie: "Comportement",
     texte: "Il faut toujours avoir le sourire.",
-: "L'équipe pédagogique"
-  },
+    auteur: "L'équipe pédagogique"
+  }
 
   // ===== FIN DE VOS FICHES =====
 
