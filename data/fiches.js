@@ -77,8 +77,14 @@ const FICHES = [
     categorie: "protection et sécurité",
     texte: "Les escaliers à l'entrée sont glissants, faites gaffe ;)",
     auteur: "Adli"
-  }
-  
+  },
+  {
+    titre: "Développemnt personnel",
+    categorie: "Confiance",
+    texte: "N'aies jamais peur",
+    auteur: "Youssef"
+  },
+ 
 
   // ===== FIN DE VOS FICHES =====
 
