@@ -90,6 +90,12 @@ const FICHES = [
     texte: "N'hesite pas a communiquer agir, sociabiliser et surtout demander conseils aux etudiants plus grands.",
     auteur: "Zitouna"
   },
+  {
+    titre: "Vie sociale",
+    categorie: "Clubs",
+    texte: "Faut rejoindre des clubs.",
+    auteur: "Amir"
+  },
  
 
   // ===== FIN DE VOS FICHES =====
