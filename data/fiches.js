@@ -84,6 +84,12 @@ const FICHES = [
     texte: "N'aies jamais peur",
     auteur: "Youssef"
   },
+  {
+    titre: "Contact et interaction",
+    categorie: "Social",
+    texte: "N'hesite pas a communiquer agir, sociabiliser et surtout demander conseils aux etudiants plus grands.",
+    auteur: "Zitouna"
+  },
  
 
   // ===== FIN DE VOS FICHES =====
