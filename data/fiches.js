@@ -71,7 +71,14 @@ const FICHES = [
     categorie: "Comportement",
     texte: "Il faut toujours avoir le sourire.",
     auteur: "L'équipe pédagogique"
+  },
+  {
+    titre: "Attention!",
+    categorie: "protection et sécurité",
+    texte: "Les escaliers à l'entrée sont glissants, faites gaffe ;)",
+    auteur: "Adli"
   }
+  
 
   // ===== FIN DE VOS FICHES =====
 
