@@ -96,7 +96,13 @@ const FICHES = [
     texte: "Faut rejoindre des clubs.",
     auteur: "Amir"
   },
- 
+  {
+    titre: "Tips",
+    categorie: "Études",
+    texte: "Toujours rester perseverant.",
+    auteur: "Adli"
+   },
+
 
   // ===== FIN DE VOS FICHES =====
 
