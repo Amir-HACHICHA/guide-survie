@@ -72,6 +72,12 @@ const FICHES = [
     texte: "Il faut toujours avoir le sourire.",
     auteur: "L'équipe pédagogique"
   },
+  { 
+    titre: "Pose des questions"",
+    categorie: "Compréhension",
+    texte: "Il faut toujours poser des questions si une notions est n'est pas comprise",
+    auteur: "Youssef"
+  },
   {
     titre: "Attention!",
     categorie: "protection et sécurité",
