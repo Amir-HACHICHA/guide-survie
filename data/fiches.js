@@ -43,6 +43,20 @@ const FICHES = [
     texte: "Entre 8h30 et 9h, le trajet double de durée. Partir vingt minutes plus tôt vous en fait gagner quarante.",
     auteur: "L'équipe pédagogique"
   },
+  
+  {
+    titre: "Tips",
+    categorie: "Études",
+    texte: "Toujours rester perseverant.",
+    auteur: "Adli"
+  },
+  
+  {
+    titre: "wikimasters",
+    categorie: "Jeux",
+    texte: "Si vous avez Charlie Kirk, appelez-moi",
+    auteur: "Adli"
+  },
 
   {
     titre: "Le premier rang n'est pas un piège",
@@ -73,7 +87,7 @@ const FICHES = [
     auteur: "L'équipe pédagogique"
   },
   { 
-    titre: "Pose des questions"",
+    titre: "Pose des questions",
     categorie: "Compréhension",
     texte: "Il faut toujours poser des questions si une notions est n'est pas comprise",
     auteur: "Youssef"
@@ -102,12 +116,8 @@ const FICHES = [
     texte: "Faut rejoindre des clubs.",
     auteur: "Amir"
   },
-  {
-    titre: "Tips",
-    categorie: "Études",
-    texte: "Toujours rester perseverant.",
-    auteur: "Adli"
-   },
+  
+ 
 
 
   // ===== FIN DE VOS FICHES =====
