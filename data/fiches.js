@@ -36,6 +36,20 @@ const FICHES = [
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non. L'information vaut son pesant de pièces jaunes.",
     auteur: "L'équipe pédagogique"
   },
+  {
+    titre: "Sport",
+    categorie: "Vie pratique",
+    texte: "Faut faire du sport.",
+    auteur: "Amir"
+  },
+
+  {
+    titre: "Révision",
+    categorie: "Bons plans",
+    texte: "faut etre à jour",
+    auteur: "Amir"
+  },
+
 
   {
     titre: "Arriver avant 8h30",
@@ -73,7 +87,7 @@ const FICHES = [
     auteur: "L'équipe pédagogique"
   },
   { 
-    titre: "Pose des questions"",
+    titre: "Pose des questions",
     categorie: "Compréhension",
     texte: "Il faut toujours poser des questions si une notions est n'est pas comprise",
     auteur: "Youssef"
