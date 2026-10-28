@@ -29,7 +29,25 @@ const FICHES = [
     texte: "Silencieuse jusqu'à 16h, beaucoup moins après. Si vous avez un partiel à réviser, venez le matin.",
     auteur: "L'équipe pédagogique"
   },
+ {
+    titre: "Revoir ses cours régulièrement",
+    categorie: "Études",
+    texte: "Relisez vos notes d'Analyse et d'Algèbre le soir même pour ancrer les définitions et théorèmes dans votre mémoire à long terme.",
+    auteur: "zitouna"
+  },
 
+  {
+    titre: "Réserver une salle de travail",
+    categorie: "Vie pratique",
+    texte: "Anticipez la réservation d'une salle en groupe via l'administration pour vos sessions de révisions intensives au calme.",
+    auteur: "zitouna"
+  },
+ {
+    titre: "Le repaire de la buvette",
+    categorie: "Bons plans",
+    texte: "Profitez de la pause entre deux cours pour faire le plein d'énergie et échanger avec les autres étudiants autour d'un café.",
+    auteur: "zitouna"
+  },
   {
     titre: "Le distributeur du deuxième",
     categorie: "Vie pratique",
