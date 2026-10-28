@@ -64,6 +64,13 @@ const FICHES = [
     texte: "N'aies pas peur pour sortir au tableau, car tu vas apprendre mieux.",
     auteur: "Youssef"
   },
+  
+  {
+    titre: "Révisions",
+    catégorie: "Travail régulier",
+    texte: "Toujours travailles, révises toujours pour être à jour",
+    auteur: "Youssef"
+  },
 
   {
     titre: "Manger sans se ruiner",
