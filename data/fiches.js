@@ -49,6 +49,12 @@ const FICHES = [
     texte: "faut etre à jour",
     auteur: "Amir"
   },
+  {
+    titre: "CONFIANCE",
+    categorie: "Vie pratique",
+    texte: "Il faut etre confiant.",
+    auteur: "Amir"
+  },
 
 
   {
