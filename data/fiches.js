@@ -104,6 +104,27 @@ const FICHES = [
   },
 
   {
+    titre: "Les intéractions sociales",
+    categorie: "Vie pratique",
+    texte: "Ne sois pas timide, interagis avec les autres et agrandit ton cercle sociale",
+    auteur: "Youssef"
+  },
+
+  {
+    titre: "Sortir au tableau n'est pas un piège",
+    categorie: "La participation en classe",
+    texte: "N'aies pas peur pour sortir au tableau, car tu vas apprendre mieux.",
+    auteur: "Youssef"
+  },
+  
+  {
+    titre: "Révisions",
+    catégorie: "Travail régulier",
+    texte: "Toujours travailles, révises toujours pour être à jour",
+    auteur: "Youssef"
+  },
+
+  {
     titre: "Manger sans se ruiner",
     categorie: "Bons plans",
     texte: "Les sandwicheries de la rue derrière sont deux fois moins chères qu'en face du campus, à cinq minutes à pied.",
