@@ -54,6 +54,26 @@ const FICHES = [
     texte: "Il rend la monnaie. Celui du rez-de-chaussée, non. L'information vaut son pesant de pièces jaunes.",
     auteur: "L'équipe pédagogique"
   },
+  {
+    titre: "Sport",
+    categorie: "Vie pratique",
+    texte: "Faut faire du sport.",
+    auteur: "Amir"
+  },
+
+  {
+    titre: "Révision",
+    categorie: "Bons plans",
+    texte: "faut etre à jour",
+    auteur: "Amir"
+  },
+  {
+    titre: "CONFIANCE",
+    categorie: "Vie pratique",
+    texte: "Il faut etre confiant.",
+    auteur: "Amir"
+  },
+
 
   {
     titre: "Arriver avant 8h30",
@@ -61,12 +81,47 @@ const FICHES = [
     texte: "Entre 8h30 et 9h, le trajet double de durée. Partir vingt minutes plus tôt vous en fait gagner quarante.",
     auteur: "L'équipe pédagogique"
   },
+  
+  {
+    titre: "Tips",
+    categorie: "Études",
+    texte: "Toujours rester perseverant.",
+    auteur: "Adli"
+  },
+  
+  {
+    titre: "wikimasters",
+    categorie: "Jeux",
+    texte: "Si vous avez Charlie Kirk, appelez-moi",
+    auteur: "Adli"
+  },
 
   {
     titre: "Le premier rang n'est pas un piège",
     categorie: "Études",
     texte: "On y comprend mieux, on y pose plus de questions, et on y sort avec moins de choses à revoir le soir.",
     auteur: "L'équipe pédagogique"
+  },
+
+  {
+    titre: "Les intéractions sociales",
+    categorie: "Vie pratique",
+    texte: "Ne sois pas timide, interagis avec les autres et agrandit ton cercle sociale",
+    auteur: "Youssef"
+  },
+
+  {
+    titre: "Sortir au tableau n'est pas un piège",
+    categorie: "La participation en classe",
+    texte: "N'aies pas peur pour sortir au tableau, car tu vas apprendre mieux.",
+    auteur: "Youssef"
+  },
+  
+  {
+    titre: "Révisions",
+    catégorie: "Travail régulier",
+    texte: "Toujours travailles, révises toujours pour être à jour",
+    auteur: "Youssef"
   },
 
   {
@@ -91,7 +146,7 @@ const FICHES = [
     auteur: "L'équipe pédagogique"
   },
   { 
-    titre: "Pose des questions"",
+    titre: "Pose des questions",
     categorie: "Compréhension",
     texte: "Il faut toujours poser des questions si une notions est n'est pas comprise",
     auteur: "Youssef"
@@ -120,12 +175,8 @@ const FICHES = [
     texte: "Faut rejoindre des clubs.",
     auteur: "Amir"
   },
-  {
-    titre: "Tips",
-    categorie: "Études",
-    texte: "Toujours rester perseverant.",
-    auteur: "Adli"
-   },
+  
+ 
 
 
   // ===== FIN DE VOS FICHES =====
