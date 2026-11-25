@@ -30,9 +30,10 @@ const FICHES = [
     auteur: "L'équipe pédagogique"
   },
   {
+
     titre: "Revoir ses cours régulièrement",
     categorie: "Études",
-    texte: "Relisez vos notes d'Analyse et d'Algèbre le soir même pour ancrer les définitions et théorèmes dans votre mémoire à long terme.",
+    texte: "Relisez vos notes d'Analyse et d'Algèbre le soir même pour ancrer les définitions et théorèmes           dans votre mémoire à long terme.",
     auteur: "zitouna"
   },
   {
@@ -193,10 +194,9 @@ const FICHES = [
     texte: "Faut rejoindre des clubs.",
     auteur: "Amir"
   },
-  
+    
  
 
-
-  // ===== FIN DE VOS FICHES =====
+   // ===== FIN DE VOS FICHES =====
 
 ];
