@@ -44,7 +44,7 @@ const FICHES = [
   },
   {
     titre: "Le jardin du campus",
-    categorie: "Vie pratique",
+    categorie: "Endroits de repos",
     texte: "Prendre des pauses, c'est important : le jardin est le lieu parfait pour se ressourcer.",
     auteur: "zitouna"
   },
