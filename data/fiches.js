@@ -32,7 +32,7 @@ const FICHES = [
   {
     titre:"La relation avec autrui",
     categorie:"Sociales",
-    texte:"N'oublies pas à améliorer les compétences sociales et l'intéraction avec les autres étudiants pour élargir ton entourage",
+    texte:"N'oublies pas à améliorer les compétences sociales",
     auteur:"youssef"
   },
  {
