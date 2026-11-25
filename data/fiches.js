@@ -38,7 +38,7 @@ const FICHES = [
   {
     titre: "Acitivité dans les clubs",
     categorie: "Vie asso",
-    texte: "Veillez à rester actif dans les clubs que vous avez rejoint.",
+    texte: "Veillez à rester actif dans les clubs que vous avez rejoint pour ne pas vous faire exclure.",
     auteur: "Adli"
   },
 
