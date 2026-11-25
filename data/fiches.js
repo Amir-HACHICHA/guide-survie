@@ -30,23 +30,29 @@ const FICHES = [
     auteur: "L'équipe pédagogique"
   },
   {
-    titre:"La relation avec autrui",
-    categorie:"Sociales",
-    texte:"N'oublies pas à améliorer les compétences sociales",
-    auteur:"youssef"
-  },
 
-  {
     titre: "Revoir ses cours régulièrement",
     categorie: "Études",
     texte: "Relisez vos notes d'Analyse et d'Algèbre le soir même pour ancrer les définitions et théorèmes           dans votre mémoire à long terme.",
     auteur: "zitouna"
+  },
+  {
+    titre: "Acitivité dans les clubs",
+    categorie: "Vie asso",
+    texte: "Veillez à rester actif dans les clubs que vous avez rejoint pour ne pas vous faire exclure.",
+    auteur: "Adli"
   },
 
   {
     titre: "Réserver une salle de travail",
     categorie: "Vie pratique",
     texte: "Anticipez la réservation d'une salle en groupe via l'administration pour vos sessions de révisions intensives au calme.",
+    auteur: "zitouna"
+  },
+  {
+    titre: "Le jardin du campus",
+    categorie: "Endroits de repos",
+    texte: "Prendre des pauses, c'est important : le jardin est le lieu parfait pour se ressourcer.",
     auteur: "zitouna"
   },
  {
@@ -146,6 +152,12 @@ const FICHES = [
   },
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
+  {
+    titre: "Education",
+    categorie: "Comportement",
+    texte: "Faut etre dicsipliné et à jour ",
+    auteur: "Amir"
+  },
   {
     titre: "Sois optimiste",
     categorie: "Comportement",
