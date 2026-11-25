@@ -29,6 +29,12 @@ const FICHES = [
     texte: "Silencieuse jusqu'à 16h, beaucoup moins après. Si vous avez un partiel à réviser, venez le matin.",
     auteur: "L'équipe pédagogique"
   },
+  {
+    titre:"Les relations avec autrui",
+    categorie:"Sociale",
+    texte:"N'oublies pas à améliorer tes compétences sociales et l'intéraction avec les autres pour élargir ton entourage",
+    auteur:"Youssef"
+  },
  {
     titre: "Revoir ses cours régulièrement",
     categorie: "Études",
