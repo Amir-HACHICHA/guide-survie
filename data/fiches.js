@@ -29,11 +29,17 @@ const FICHES = [
     texte: "Silencieuse jusqu'à 16h, beaucoup moins après. Si vous avez un partiel à réviser, venez le matin.",
     auteur: "L'équipe pédagogique"
   },
+  {
+    titre:"La relation avec autrui",
+    categorie:"Sociales",
+    texte:"N'oublies pas à améliorer les compétences sociales",
+    auteur:"youssef"
+  },
 
-   {
+  {
     titre: "Revoir ses cours régulièrement",
     categorie: "Études",
-    texte: "Relisez vos notes d'Analyse et d'Algèbre le soir même pour ancrer les définitions et théorèmes dans votre mémoire à long terme.",
+    texte: "Relisez vos notes d'Analyse et d'Algèbre le soir même pour ancrer les définitions et théorèmes           dans votre mémoire à long terme.",
     auteur: "zitouna"
   },
 
@@ -176,14 +182,7 @@ const FICHES = [
     texte: "Faut rejoindre des clubs.",
     auteur: "Amir"
   },
-  {
-    titre:"La relation avec autrui",
-    categorie:"Sociales",
-    texte:"N'oublies pas à améliorer les compétences sociales",
-    auteur:"youssef"
-  },
-
-  
+    
  
 
    // ===== FIN DE VOS FICHES =====
