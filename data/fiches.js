@@ -30,10 +30,10 @@ const FICHES = [
     auteur: "L'équipe pédagogique"
   },
   {
-    titre:"Les relations avec autrui",
-    categorie:"Sociale",
-    texte:"N'oublies pas à améliorer tes compétences sociales et l'intéraction avec les autres pour élargir ton entourage",
-    auteur:"Youssef"
+    titre:"La relation avec autrui",
+    categorie:"Sociales",
+    texte:"N'oublies pas à améliorer les compétences sociales et l'intéraction avec les autres étudiants pour élargir ton entourage",
+    auteur:"youssef"
   },
  {
     titre: "Revoir ses cours régulièrement",
