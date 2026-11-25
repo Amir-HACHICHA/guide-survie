@@ -142,7 +142,7 @@ const FICHES = [
   {
     titre: "Education",
     categorie: "Comportement",
-    texte: "Faut etre dicsipliné",
+    texte: "Faut etre dicsipliné et à jour ",
     auteur: "Amir"
   },
   {
