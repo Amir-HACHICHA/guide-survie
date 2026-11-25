@@ -146,6 +146,12 @@ const FICHES = [
 
   // ===== AJOUTEZ VOS FICHES CI-DESSOUS =====
   {
+    titre: "Education",
+    categorie: "Comportement",
+    texte: "Faut etre dicsipliné et à jour ",
+    auteur: "Amir"
+  },
+  {
     titre: "Sois optimiste",
     categorie: "Comportement",
     texte: "Il faut toujours avoir le sourire.",
